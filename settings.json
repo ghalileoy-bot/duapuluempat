@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zzz213z.aternos.me
-",
+    "ip": "zzz213z.aternos.me",
     "port": 34699,
     "version": "1.20.1",
     "try-creative": false
